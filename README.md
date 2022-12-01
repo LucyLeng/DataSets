@@ -1,6 +1,6 @@
 # G2M Cab Company DataSets
 
-The EDA is in the G2M_Cab_EDA.ipynb file, accomplished using Jupyter Notebook.
+The EDA is in the EDA_G2M_W2.ipynb file, accomplished using Jupyter Notebook.
 
 Cab_Data.csv – this file includes details of transaction for 2 cab companies
 
